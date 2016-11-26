@@ -373,18 +373,20 @@ Kotlinはいいぞ
 <ul style='font-size: 30px;'>
 <li><a href="http://blog.satotaichi.info/mystery_of_sam_type_conversion/">KotlinにおけるSAMタイプの話 - さにあらず</a></li>
 </ul>
+---
+## 参考
 <h3>Kotlin Bytecode</h3>
 <ul style='font-size: 30px;'>
 <li><a href="https://www.gitbook.com/book/sys1yagi/anatomy-kotlin/details">解剖 Kotlin ~バイトコードを読み解く~ - GitBook</a></li>
 <li><a href="http://yyyank.blogspot.jp/2016/08/show-kotlin-bytecodekotlin.html">「Show Kotlin Bytecode」でKotlinを理解する - Javaプログラマのはしくれダイアリー</a></li>
 </ul>
----
-## 参考
 <h3>高階関数</h3>
 <ul style='font-size: 30px;'>
 <li><a href="http://qiita.com/opengl-8080/items/36351dca891b6d9c9687">Kotlin のコレクション使い方メモ - Qiita</a></li>
 <li><a href="http://kirimin.hatenablog.com/entry/2015/08/24/093646">Kotlinのリスト操作関数まとめ - みんからきりまで</a></li>
 </ul>
+---
+## 参考
 <h3>bound callable references</h3>
 <ul style='font-size: 30px;'>
 <li><a href="https://github.com/Kotlin/KEEP/blob/master/proposals/bound-callable-references.md">KEEP/bound-callable-references.md at master - Kotlin/KEEP - GitHub</a></li>
