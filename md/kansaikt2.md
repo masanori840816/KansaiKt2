@@ -80,7 +80,7 @@ Collections.sort(arrayList, object: Comparator<Int>{
 @Throws(IOException::class)
 override fun start(primaryStage: Stage) {
     val start = System.currentTimeMillis()
-    
+
     // 偶数だけArrayListに追加する.
     val result = (0..1000000).filter { it % 2 == 0 }
     
@@ -159,7 +159,6 @@ public void start(@NotNull Stage primaryStage) throws IOException {
     Iterable end = (Iterable)(new IntRange(0, 1000000));
     Collection diff = (Collection)(new ArrayList());
     Iterator var8 = end.iterator();
-
     while(var8.hasNext()) {
         Object element$iv$iv = var8.next();
         int it = ((Number)element$iv$iv).intValue();
@@ -167,7 +166,6 @@ public void start(@NotNull Stage primaryStage) throws IOException {
         diff.add(element$iv$iv);
         }
     }
-
     List result = (List)diff;
     long end1 = System.currentTimeMillis();
     long diff1 = end1 - start;
@@ -189,15 +187,10 @@ public void start(@NotNull Stage primaryStage) throws IOException {
         if(end % 2 == 0) {
             result.add(Integer.valueOf(end));
         }
-
-        if(end == var6) {
-            break;
-        }
-
+        if(end == var6) { break; }
         ++end;
         }
     }
-
     long var9 = System.currentTimeMillis();
     long diff = var9 - start;
     System.out.println(diff);
