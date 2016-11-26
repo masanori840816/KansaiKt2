@@ -1,5 +1,5 @@
 <img id='top_image' src='img/ic_home_black_48dp_2x.png' style='width: 144px; height: 144px; position:absolute; top:30%; left:30%;'></img>
-<div style='font-size: 80px; position:absolute; top:27%; left: 46%;'>
+<div style='font-size: 80px; position:absolute; top:37%; left: 46%;'>
 λ...
 </div>
 <div style='font-size:40px; position: absolute; bottom: 5%; left: 5%;'>
