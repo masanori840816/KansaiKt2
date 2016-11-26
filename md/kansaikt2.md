@@ -45,7 +45,7 @@ val arrayList = arrayListOf(1, 5, 2)
 Collections.sort(arrayList) { x, y -> y - x }
 ```
 
-#### 下記のように第二引数である関数も括弧()の中に書くことは可能ですが、<br>通常は最後の引数が関数の場合括弧()の外に出します。
+### 下記のように第二引数である関数も括弧()の中に書くことは可能ですが、<br>通常は最後の引数が関数の場合括弧()の外に出します。
 
 ```xml
 val arrayList = arrayListOf(1, 5, 2)
@@ -219,7 +219,7 @@ val stringList = arrayOf("one", "two")
 val result = stringList.filter{it.isNotEmpty()}
 ```
 
-#### ※本来なら下記のように引数名を指定しますが、<br>引数が一つだけの場合は暗黙的にitとして扱うことができます。
+### ※本来なら下記のように引数名を指定しますが、<br>引数が一つだけの場合は暗黙的にitとして扱うことができます。
 ```xml
 val stringList = arrayOf("one", "two")
 val result = stringList.filter{s -> s.isNotEmpty()}
@@ -302,7 +302,7 @@ try{
 ```
 ---
 ## 例外
-### ※今回はチェック例外の不便なところを挙げましたが、<br>チェック例外そのものは(当然)良いところもあるため<br>適切に使っていきましょう(๑•̀ㅂ•́)و✧
+### ※今回はチェック例外の不便なところを挙げましたが、<br>チェック例外そのものは(当然)良いところもあるため<br>適切に対応していきましょう(๑•̀ㅂ•́)و✧
 ---
 ## SAM typeを作る
 ### Comparator - compareのように予め用意された関数だけでなく、SAM typeを自作することも可能で、<br>関数を一つ持つinterfaceを作るだけです。
