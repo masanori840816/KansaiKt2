@@ -367,11 +367,12 @@ Kotlinはいいぞ
 <li><a href="http://kotlinlang.org/docs/reference/">Reference - Kotlin Programming Language</a></li>
 <li><a href="http://www.ric.co.jp/book/contents/book_1039.html">Kotlinスタートブック──新しいAndroidプログラミング── - リックテレコム</a></li>
 <li><a href="http://gihyo.jp/magazine/wdpress/archive/2016/vol94">WEB+DB PRESS Vol.94 - 技術評論社</a></li>
-<li><a href="http://try.kotlinlang.org/#/Kotlin%20Koans/">Kotlin Koans - Try Kotlin</a></li>
-</ul>
+<li><a href="http://try.kotlinlang.org/#/Kotlin%20Koans/">Kotlin Koans - Try Kotlin</a></li></ul>
 <h3>SAM type</h3>
 <ul style='font-size: 30px;'>
 <li><a href="http://blog.satotaichi.info/mystery_of_sam_type_conversion/">KotlinにおけるSAMタイプの話 - さにあらず</a></li>
+<li><a href="https://gist.github.com/taichi/2bd0fdbabbe977ed34e3">Kotlin SAM type conversion - taichi - GitHub</a></li>
+<li><a href="http://qiita.com/RyotaMurohoshi/items/01b370f34a4bf96f5c39">Kotlinでリスナーやコールバックをスッキリと書く【関数リテラルとSAM変換】 - Qiita</a></li>
 </ul>
 ---
 ## 参考
@@ -394,6 +395,7 @@ Kotlinはいいぞ
 <h3>Kotlin1.1</h3>
 <ul style='font-size: 30px;'>
 <li><a href="https://realm.io/news/andrey-breslav-whats-next-for-kotlin-roadmap/">Watch Where We Stand & What's Next for Kotlin - realm</a></li>
+<li><a href="https://www.infoq.com/jp/news/2016/07/kotlin-11-roadmap">Kotlin1.1へのロードマップ - InfoQ</a></li>
 </ul>
 ---
 <div style='font-size: 70px; position:absolute; top: 40%;'>
